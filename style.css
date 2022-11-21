@@ -1,0 +1,25 @@
+.header, .footer{
+    background-color: cornflowerblue;
+    color: brown;
+    padding: 30px;
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+    line-height: 1;
+}
+section{
+    font-size: 25px;
+    font-weight: normal;
+    text-align: center;
+    padding: 20px;
+    color: brown;
+}
+.about{
+    background-color: violet;
+}
+.background{
+    background-color: burlywood;
+}
+.stuff{
+    background-color: yellow;
+}
